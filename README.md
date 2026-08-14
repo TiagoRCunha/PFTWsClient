@@ -8,7 +8,7 @@ Pacote npm `@pft/ws-client` que encapsula a conexão WebSocket com o **PFTChat**
 
 ## Stack
 
-- TypeScript (framework-agnostic, consumido pelo PFTWeb)
+- TypeScript (framework-agnostic, consumido pelos clientes `PFTWeb`, `PFTDashboard` e `PFTAdmin`)
 - Dependência de contratos: `@pft/contracts` (versão exata)
 
 ## Requisitos

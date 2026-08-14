@@ -8,7 +8,7 @@ Cliente WebSocket reutilizável (`@pft/ws-client`): conexão autenticada, join/l
 
 ## Stack
 
-- TypeScript puro (sem framework) — consumido pelo PFTWeb.
+- TypeScript puro (sem framework) — consumido pelos clientes web (`PFTWeb`, `PFTDashboard`, `PFTAdmin`).
 - Contratos via `@pft/contracts` (versão exata).
 
 ## Decisões que afetam este pacote (ADRs)
